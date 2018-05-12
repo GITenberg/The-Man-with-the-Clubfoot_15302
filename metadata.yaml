@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '904'
     url: http://www.gutenberg.org/2009/agents/904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15302#The-Man-with-the-Clubfoot
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
 identifiers:
