@@ -1,0 +1,31 @@
+_repo: The-Man-with-the-Clubfoot_15302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Valentine
+    alias: Valentine, Douglas
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '904'
+    url: http://www.gutenberg.org/2009/agents/904
+description: ''
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Secret service -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Spy stories'
+title: The Man with the Clubfoot
+url: http://www.gutenberg.org/ebooks/15302
